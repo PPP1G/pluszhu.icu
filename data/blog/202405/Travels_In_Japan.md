@@ -1,7 +1,7 @@
 ---
 title: '🗼 五月底去了一趟日本，记录一下我的游记和攻略'
 date: '2024-05-31'
-tags: ['Travel', 'Japan']
+tags: ['Life', 'Travel', 'Japan']
 draft: false
 summary: '年初制定的目标中有一项是「带老婆出国旅行」，现在已经完成了。五月底我们去了一趟日本。我在这里记录一下我们的游记，也分享一些攻略 …'
 authors: ['default']
@@ -21,13 +21,41 @@ import UnsplashPhotoInfo from './UnsplashPhotoInfo.tsx'
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1neLkcFdkrSTFACV6cZ6pyib_-wLtRWw&ehbc=2E312F" width="100%" height="480"></iframe>
 
+> 如果你的网络环境无法加载上面的 [Google Map](https://www.google.com/maps/d/embed?mid=1neLkcFdkrSTFACV6cZ6pyib_-wLtRWw)，我还准备了 [Bing Map](https://www.bing.com/maps?osid=75acd505-e142-41fe-8d72-22cce9f9c632)。
+
 ### 1. 引言
 
 年初制定的目标中有一项是「带老婆出国旅行」，现在已经完成了。五月底我们去了一趟日本，我在这里记录一下我们的游记，也分享一些攻略。
 
 这是我们的第一次出国旅行，所有事情从签证到机票再到酒店，都靠自己摸索。我们选择了经典的「东进阪出」路线，即从东京入境，从大阪出境，游览了东京、大阪、京都三个城市。
 
-### 2. 行程规划与准备
+### 2. 行程规划
+
+| 日期  | 地点             | 备注                    |
+| ----- | ---------------- | ----------------------- |
+| 05/22 | 东京羽田机场     | 🛬 入境                 |
+| 05/22 | 浅草寺           |                         |
+| 05/23 | 东京迪士尼海洋   | 🎠                      |
+| 05/24 | 银座三越         | 🛍️                      |
+| 05/24 | 筑地市场         | 🍽️                      |
+| 05/24 | 银座优衣库       | 🛍️                      |
+| 05/24 | 芝公园           |                         |
+| 05/24 | 增上寺           |                         |
+| 05/24 | 池袋             | 🚌 大巴夜行大巴前往大阪 |
+| 05/25 | 心斋桥           | 🛍️ 🍽️                   |
+| 05/25 | 大阪城公园       |                         |
+| 05/25 | 大阪历史博物馆   |                         |
+| 05/25 | 难波八坂神社     |                         |
+| 05/26 | 大阪环球影城     | 🎠                      |
+| 05/27 | 京都清水寺       | 🚄 京坂线前往京都       |
+| 05/27 | 二年坂三年坂     |                         |
+| 05/27 | 八坂神社         |                         |
+| 05/27 | 花见小路         |                         |
+| 05/27 | 建仁寺           | 🚄 京坂线前返回大阪     |
+| 05/27 | 道顿堀           |                         |
+| 05/28 | 大阪关西国际机场 | 🛫 回国                 |
+
+### 3. 出发前的准备
 
 #### a. 签证及旅行文件
 
@@ -142,7 +170,7 @@ import UnsplashPhotoInfo from './UnsplashPhotoInfo.tsx'
 - Booking
 - Agoda
 
-### 3. 东京篇
+### 4. 东京篇
 
 - 入境流程
 
@@ -188,7 +216,7 @@ import UnsplashPhotoInfo from './UnsplashPhotoInfo.tsx'
 
 ![tokyo](/static/images/blog/202405/Travels_In_Japan/tokyo_11.jpg)
 
-### 4. 大阪篇
+### 5. 大阪篇
 
 - **交通**
 
@@ -223,7 +251,7 @@ import UnsplashPhotoInfo from './UnsplashPhotoInfo.tsx'
 
 ![Osaka](/static/images/blog/202405/Travels_In_Japan/osaka_8.jpg)
 
-### 5. 京都篇
+### 6. 京都篇
 
 - **景点**
 
@@ -252,3 +280,25 @@ import UnsplashPhotoInfo from './UnsplashPhotoInfo.tsx'
 ![Kyoto](/static/images/blog/202405/Travels_In_Japan/kyoto_6.jpg)
 
 ![Kyoto](/static/images/blog/202405/Travels_In_Japan/kyoto_7.jpg)
+
+### 7. 花费总结
+
+记录的时候没有细分吃穿住行，只记录了大概的一个汇总，供大家参考。
+
+|      项目      |     金额     |
+| :------------: | :----------: |
+|      签证      |     396      |
+|    东京酒店    |   1371.56    |
+|    大阪酒店    |   1317.26    |
+| 天津到东京机票 |     1186     |
+|   东京到大阪   |    917.93    |
+| 大阪到天津机票 |     2181     |
+| 天津到北京火车 |     109      |
+| 门票迪士尼海洋 |    757.14    |
+|  门票环球影城  |     857      |
+|     流量卡     |    101.6     |
+|  兑换日元现汇  |    936.04    |
+| 中行信用卡消费 |     2000     |
+|  招商银行消费  |   2687.58    |
+|    微信消费    |   1887.32    |
+|     **总**     | **16705.43** |

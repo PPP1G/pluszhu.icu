@@ -8,13 +8,13 @@ export let friendsData: Friend[] = [
     imgSrc: '/static/images/friends/suisuipingan.jpg',
     url: 'http://suisuipingan.love/home/?ref=mengke.me',
   },
-  // {
-  //   type: 'friend',
-  //   name: 'Kong',
-  //   slogan: '当机立断，非黑即白，不要后悔',
-  //   imgSrc: '/static/images/friends/kong.jpg',
-  //   url: 'https://kongf.github.io/?ref=mengke.me',
-  // },
+  {
+    type: 'friend',
+    name: 'Kong',
+    slogan: '当机立断，非黑即白，不要后悔',
+    imgSrc: '/static/images/friends/kong.jpg',
+    url: 'https://kongf.github.io/?ref=mengke.me',
+  },
   {
     type: 'friend',
     name: 'UoCat',
@@ -38,24 +38,17 @@ export let friendsData: Friend[] = [
   },
   {
     type: 'friend',
-    name: '什么值得读',
-    slogan: '互联网人的书单库！',
-    imgSrc: '/static/images/friends/shenmezhidedu.png',
-    url: 'https://www.shenmezhidedu.com/?ref=mengke.me',
-  },
-  {
-    type: 'friend',
-    name: 'web秘籍',
-    slogan: 'web-miji，一个致力于生产前端开发秘籍的网站',
-    imgSrc: '/static/images/friends/miji.ico',
-    url: 'https://web-miji.com/?ref=mengke.me',
-  },
-  {
-    type: 'friend',
     name: '沉舟侧畔 Blog',
     slogan: '⛵️ 新生的力量，生机勃勃 ⛵️',
     imgSrc: '/static/images/friends/springwood.jpeg',
     url: 'https://springwood.me/?ref=mengke.me',
+  },
+  {
+    type: 'friend',
+    name: "Chaoszhu'Blog",
+    slogan: '好记性不如烂笔头~',
+    imgSrc: '/static/images/friends/chaoszhu.png',
+    url: 'https://chaoszhu.com/?ref=mengke.me',
   },
   {
     type: 'techStar',
@@ -70,12 +63,5 @@ export let friendsData: Friend[] = [
     slogan: '本是浪蝶游蜂，自留半亩石池，但求直抒胸臆，挥墨九云之中',
     imgSrc: '/static/images/friends/surmon.jpeg',
     url: 'https://surmon.me/?ref=mengke.me',
-  },
-  {
-    type: 'techStar',
-    name: 'Tech Philosopher',
-    slogan: 'To Explore, Feel, Think, and Practice.',
-    imgSrc: '/static/images/friends/bktus.jpg',
-    url: 'https://blog.bktus.com/en/?ref=mengke.me',
   },
 ]
