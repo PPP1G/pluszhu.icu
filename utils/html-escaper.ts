@@ -1,9 +1,5 @@
 let { replace } = ''
-
-// escape
-// let es = /&(?:amp|#38|lt|#60|gt|#62|apos|#39|quot|#34);/g
 let ca = /[&<>'"]/g
-
 let esca = {
   '&': '&amp;',
   '<': '&lt;',
@@ -11,7 +7,10 @@ let esca = {
   "'": '&#39;',
   '"': '&quot;',
 }
-let pe = (m: string): string => esca[m]
+
+function pe(m: keyof typeof esca) {
+  return esca[m]
+}
 
 /**
  * Safely escape HTML entities such as `&`, `<`, `>`, `"`, and `'`.
